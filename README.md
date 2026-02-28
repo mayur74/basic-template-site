@@ -1,4 +1,4 @@
-# MERN Dark Portfolio
+# tp template portfolio prac
 
 A centered, aesthetic dark-themed portfolio template built with the MERN stack and Tailwind CSS.
 
